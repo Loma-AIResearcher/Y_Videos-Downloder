@@ -22,7 +22,7 @@ This is a Python application for downloading YouTube videos or playlists.
 1. Clone the repository:
 
  ```bash
-git clone https://github.com/yourusername/Y-Videos_Downloader.git
+git clone https://github.com/Loma-AIResearcher/Y-Videos_Downloader.git
 cd Y-Videos_Downloader
  ```
 
